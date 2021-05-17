@@ -1,0 +1,3 @@
+b1
+git config --global user.email "wxdong2001@sina.com"
+git config --global user.name "wxdong"
